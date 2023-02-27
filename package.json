@@ -1,0 +1,30 @@
+{
+    "name": "Terminal",
+    "version": "1.0.0",
+    "description": "Terminal opensrc",
+    "main": "Main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "nicko",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "buffer-replace": "^1.0.0",
+        "center-align": "^1.0.1",
+        "child_process": "^1.0.2",
+        "colors": "^1.4.0",
+        "discord-rpc": "^4.0.1",
+        "discord.js-selfbot-v11": "^11.5.1",
+        "discordjs-selfv11": "^11.5.1",
+        "enmap": "^5.8.7",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "https": "^1.0.0",
+        "long": "^5.1.0",
+        "os": "^0.1.2",
+        "path": "^0.12.7",
+        "snekfetch": "^4.0.4"
+    }
+}
